@@ -1,8 +1,8 @@
 const data = {
-    customers: {
-      Moe: {Foo: 0, Bar: 0, Bazz: 0},
-      Larry: {Foo: 0, Bar: 0, Bazz: 0 },
-      Curly: {Foo: 0, Bar: 0, Bazz: 0 }
+    robots: {
+      "Darth Tazer": {"Buzzsaw": 0, "Lazer Beam": 0, '"Guided" Missile': 0},
+      "Mercy 404": {"Buzzsaw": 0, "Lazer Beam": 0, '"Guided" Missile': 0 },
+      "Hurt 'em 9000": {"Buzzsaw": 0, "Lazer Beam": 0, '"Guided" Missile': 0 }
     },
-    prizes: {Foo: 1, Bar: 3, Bazz: 5}
-  };
+    components: {"Buzzsaw": 4, "Lazer Beam": 3, '"Guided" Missile': 5}
+};

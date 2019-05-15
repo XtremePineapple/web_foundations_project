@@ -1,0 +1,28 @@
+body{
+    background-image: url("http://www.cray.com/blog/wp-content/uploads/2017/12/Deep-6-AI.jpg");
+    background-repeat: repeat-x;
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    background-color: cornsilk;
+    margin: auto;
+}
+
+/* tr{
+
+} */
+
+td{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-style: none solid none solid;
+    border-color: yellow;
+}
